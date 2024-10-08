@@ -1,5 +1,6 @@
-let basicSalary = readline("Basic Salary: ");
-let benefits = readline("Benefits: ");
+let basicSalary =readline("Basic Salary: ");
+let benefits =readline("Benefits: ");
+
   // Calculate gross salary
 let grossSalary = basicSalary + benefits;
 function payee(){
